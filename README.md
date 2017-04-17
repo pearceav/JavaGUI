@@ -1,2 +1,3 @@
 # JavaGUI
-for GUI + git Lab
+
+Github/GUI Intro Lab
